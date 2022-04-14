@@ -10,3 +10,7 @@ Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido!
 
 [Acesse meu GitHub](https://github.com/davilos)
 
+- [x] Iniciar o curso
+- [x] Entender o conceito
+- [ ] Dominar o Git
+
